@@ -1,0 +1,14 @@
+{
+  "name": "fallbackProvider",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Pasha8914/fallbackProvider.git",
+  "author": "Pasha8914 <uhaubuhau894@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "go": "node ./index.js"
+  },
+  "dependencies": {
+    "ethers": "^5.5.2"
+  }
+}
